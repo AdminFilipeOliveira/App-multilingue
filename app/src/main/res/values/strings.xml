@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App-multilingue</string>
+    <string name="saudacao" translatable="false">Olá👋, Bem Vindo a Dio.me ☘️</string>
+</resources>
